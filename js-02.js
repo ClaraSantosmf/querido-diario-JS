@@ -4,7 +4,9 @@ var lista = [4,	8, 6, 9, 5,	5, 5, 3, 2, 3, 7, 6, 2, 8, 4, 10, 4, 2, 7, 2, 2, 9, 
 
 var soma = 0
 
-for (item in lista):
-    soma += item
+for (var item in lista) {
+    soma += lista[item]
+}
+
 
 console.log("Resultado: " + soma)
