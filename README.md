@@ -87,7 +87,11 @@ Tem os exemplos no js-10.js.
 
 # Desvios condicionais (if, if else, else) #16
 
-Querido diário, o falso é falso, mas o verdadeiro é falso, se for questionado se é falso. Muito louco, faz isso no desvio condicional para poder verificar. Então veja bem, a sintaxe é if com {} e else  também com {}. E dá para fazer if dentro de if. Assim como dá para inserir duas condições com um &&. Caso você queira ou um ou outro, usa dois pipe || entre as condições. 
+Querido diário, o falso é falso, mas o verdadeiro é falso, se for questionado se é falso. Muito louco, faz isso no desvio condicional para poder verificar. 
+
+Então veja bem, a sintaxe é if com {} e else  também com {}. E dá para fazer if dentro de if. 
+
+Assim como dá para inserir duas condições com um &&. Caso você queira ou um ou outro, usa dois pipe || entre as condições. 
 
 Tem documento js-11.js
 
@@ -126,4 +130,14 @@ INcrível, mas isso se chama switch
 # Desafios - D12 - Exercícios JS - Lista 01
 
 Querido diário, agora tenho que fazer exercícios extras desse repositório aqui: https://github.com/huogerac/guia-para-aprender-js-lista-exercicios
-Vou agrupar todas as soluções no documento js-14.js. Espero que dê certo. 
+Vou agrupar todas as soluções no documento nesse fork específico https://github.com/ClaraSantosmf/guia-para-aprender-js-lista-exercicios. Espero que dê certo. 
+
+# Repetições (for, for in, for of e forEach) #20
+
+Querido diário, Hoje entendemos como é repetição, que legal, com for, for in, for of e forEach. A lista pode ser percorrida com um contador geralmente chamado de i. 
+
+Dá para usar também [lista].length, onde dá a informação para percorrer tudo, ou simplesmente dizer var i in lista, e ele entenderá que dá para percorrer tudo.
+
+For of não imprime índice, imprime elementos automaticamente, sem necessidade de acessar a lista por índice. 
+
+forEach é uma função funciona com lista.forEach(qualquernome), ai dá um console log para vc colocar o qualquer nome para extrair o elemento. Vê o exemplo no Documento js-14.js
