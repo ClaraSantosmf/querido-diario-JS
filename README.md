@@ -141,3 +141,34 @@ Dá para usar também [lista].length, onde dá a informação para percorrer tud
 For of não imprime índice, imprime elementos automaticamente, sem necessidade de acessar a lista por índice. 
 
 forEach é uma função funciona com lista.forEach(qualquernome), ai dá um console log para vc colocar o qualquer nome para extrair o elemento. Vê o exemplo no Documento js-14.js
+
+# Repetições (break, continue) 🖱 #21
+
+Querido diário, BREAK! Que é dizer que, quando chegar a uma condição, para o loop! Isso funciona bem para quando você quer verficiar apenas uma condicional. Ainda tem o continue! Que serve para não breakar!
+Documento js-15.js
+
+# Repetições (while, do while) 🖱 #22
+
+Querido diário, ADVINHA! tem outra forma de percorrer listas. É WHILE! e DO WHILE!
+Que legal, a diferença é que o while para no último elemento. UMA LOUCURA! Mas não esquece de botar um contador! ok!
+Ainda tem o do, ele só verifica a prada no final! O que acaba incluindo o último índice. 
+
+# Iniciando com funções (functions) no JS 🖱 #26
+
+Querido diário, a função encapsula um conjunto de código que retorna resultados difeentes conforme o parâmetro. Uma função pode ser passada como parâmetro de outra. 
+
+A chamada da função ocorre quando você escrever com (), onde são passado os parâmetros dela, processamento com os passos que entrão logo em seguida em um bloco delimitado o escopo por {}, e, geralmente, tem retorno. Mas existe função sem retorno também. 
+
+O excesso de parâmetros é ignorado. Mas a falta de parâmetros é acusado como um erro. 
+
+É importante saber que existe o statement vs expression. A extrutura de expressão diz que uma variável é uma função. (const FazerPao = function (parâmetro)). Isso torna a função com menos risco de sangrar variáveis externamente. 
+
+Ainda existe o conceito de funções puras. Que recebe variáveis e você não deve mexer variáveis fora dela. 
+
+E ainda dá muito para pesquisar, por exemplo, arrow functions, hight order functions, clousure e immediately invoked function expression. 
+
+Tem exemplo de Padaria no documento js-17.js
+
+# Primeiros passos com Objetos no JS 🖱 #27
+
+Querido diário, meu deus, tem objeto no JavaScript. O objeto tem um par de {chave: valor}, como se fosse um dicionário no python. Chave e valor podem ser alterados, pode representar uma estrutura de dados complexa e tudo que não é primitido e objeto. 
