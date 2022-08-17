@@ -179,8 +179,7 @@ Querido diário, meu deus, tem objeto no JavaScript. O objeto tem um par de {cha
 
 * JS web
 * Entenda como criar elementos dentro do body (uma div, uma ul e dentro da ul)
-* Entenda como obter elementos para atualizar valores e atributos
-querySelector, getElementById
+* Entenda como obter elementos para atualizar valores e atributos (querySelector, getElementById)
 * Entenda como capturar eventos, exemplo, onClick
 
 ## Desafios iniciais
@@ -218,3 +217,9 @@ https://www.youtube.com/watch?v=wWnBB-mZIvY&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl
 **Callback**
 
 Serve para dar sequência. Mais específicamente é uma função callback é uma função passada a outra função como argumento, que é então invocado dentro da função externa para completar algum tipo de rotina ou ação.
+
+Código de apoio de js-19.js
+
+**Promise**
+
+É útil para

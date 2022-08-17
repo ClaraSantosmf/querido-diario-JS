@@ -1,0 +1,32 @@
+.inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%; 
+    width: 100%; 
+    justify-content: center;
+    
+}
+input, button{
+    height: 5%; 
+    width: 30%;
+    margin: 2%;
+}
+
+.conteiner{
+  height: 80%  
+}
+
+body{
+    height: 95vh; 
+    background-color: #87cefa87 ; 
+}
+
+.resu{
+    width: 100%; 
+    display: flex;
+}
+
+.resultado{
+    width:  50%;
+}
