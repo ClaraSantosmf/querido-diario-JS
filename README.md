@@ -189,7 +189,7 @@ Querido diário, meu deus, tem objeto no JavaScript. O objeto tem um par de {cha
 * Criar um h2 com id=’resultado’
 * Criar um botão somar
 * Criar a function somar(n1,n2)
-* Fazer um addListenner capturando o onCLick do botão para chamar a função soma 
+* Fazer um addListener capturando o onCLick do botão para chamar a função soma 
 
 ### Refazer o js02-metros-para-centrimetros
 
