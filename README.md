@@ -176,6 +176,7 @@ Querido diário, meu deus, tem objeto no JavaScript. O objeto tem um par de {cha
 # Segundo Parte - JavaScript web
 
 ## Avisos
+
 * JS web
 * Entenda como criar elementos dentro do body (uma div, uma ul e dentro da ul)
 * Entenda como obter elementos para atualizar valores e atributos
@@ -183,30 +184,37 @@ querySelector, getElementById
 * Entenda como capturar eventos, exemplo, onClick
 
 ## Desafios iniciais
+
 ### Refazer o js04-soma-dos-numeros via web
-* criar um botão somar
-* criar um h2 com id=’resultado’
-* criar a function somar(n1,n2)
-* fazer um addListenner capturando o onCLick do botão para chamar a função soma 
+
+* Criar um h2 com id=’resultado’
+* Criar um botão somar
+* Criar a function somar(n1,n2)
+* Fazer um addListenner capturando o onCLick do botão para chamar a função soma 
+
 ### Refazer o js02-metros-para-centrimetros
-* fazer o visual de conversão do google
-* capturar o evento onchange ou onkey alguma coisa de forma que conforme digitamos em metros, o campo centímetros é atualizado “em tempo real”
+
+* Fazer o visual de conversão do google
+* Capturar o evento onchange ou onkey alguma coisa de forma que conforme digitamos em metros, o campo centímetros é atualizado “em tempo real”
+
 ### Fazer uma interface web para o problema do Erick, lista 02/js09
-estudar alguma biblioteca JS para facilitar operações com data (new date)
-* ver alguma biblioteca que exiba um componente visual de calendário (igual o google calendar)
+
+* Estudar alguma biblioteca JS para facilitar operações com data (new date)
+* Ver alguma biblioteca que exiba um componente visual de calendário (igual o google calendar)
+
 ## Desafio final desta semana
-Fazer o Wordle completo
-Pegar o CSS que fizemos na parte 1
-adicionar as funcionalidades com JS
+
+* Fazer o Wordle completo (Pegar o CSS que fizemos na parte 1 e adicionar as funcionalidades com JS) 
 
 ### Assuntos passados em aula
 
-Seletores com Guanabara:
+**Seletores com Guanabara**
 
 https://www.youtube.com/watch?v=WWZX8RWLxIk&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=14
 
+
 https://www.youtube.com/watch?v=wWnBB-mZIvY&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=15
 
-Callback:
+**Callback**
 
-https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function
+Serve para dar sequência. Mais específicamente é uma função callback é uma função passada a outra função como argumento, que é então invocado dentro da função externa para completar algum tipo de rotina ou ação.
